@@ -83,7 +83,7 @@ highlight_languages:
   - r
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
@@ -149,7 +149,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'UA-82319934-5'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
