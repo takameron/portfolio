@@ -16,18 +16,62 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 最も使う言語です
+  icon: c-plain
+  icon_pack: devicon
+  name: C
+- description: 機械学習に使いました
+  icon: python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  name: Python
+- description: 主にWebアプリに使います
+  icon: ruby-plain
+  icon_pack: devicon
+  name: Ruby
+- description: 少し触りました
+  icon: rails-plain
+  icon_pack: devicon
+  name: Ruby on Rails
+- description: APIサーバの構築で使用しました
+  icon: node-js
+  icon_pack: fab
+  name: Node.js
+- description: Webアプリの作成・静的サイトのカスタマイズ
+  icon: html5
+  icon_pack: fab
+  name: HTML
+- description:
+  icon: css3-alt
+  icon_pack: fab
+  name: CSS
+- description:
+  icon: js
+  icon_pack: fab
+  name: JavaScript
+- description: Webアプリで使います
+  icon: mysql-plain
+  icon_pack: devicon
+  name: SQL
+- description: サーバ管理など
+  icon: linux
+  icon_pack: fab
+  name: Linux
+- description: 時々使います
+  icon: docker
+  icon_pack: fab
+  name: Docker
+- description: コードを書くときは、よく使います
+  icon: git-alt
+  icon_pack: fab
+  name: Git
+- description: 時々使います
+  icon: visualstudio-plain
+  icon_pack: devicon
+  name: Visual Studio
+- description: 普段使いのエディタです
+  icon: visualstudio-plain
+  icon_pack: devicon
+  name: Visual Studio Code
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
@@ -44,3 +88,5 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">

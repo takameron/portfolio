@@ -23,30 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url:
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  date_start: "2018-05-16"
+  description: "平成30年度春季試験にて合格しました。"
+  organization: 独立行政法人 情報処理推進機構
+  organization_url: https://www.ipa.go.jp/
+  title: 基本情報技術者試験
+  url: "https://www.jitec.ipa.go.jp/1_11seido/fe.html"
+- certificate_url:
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  date_start: "2019-07-12"
+  description: 2019年度第1回実用英語技能検定にて合格しました。
+  organization: 公益財団法人 日本英語検定協会
+  organization_url: https://www.eiken.or.jp/
+  title: 実用英語技能検定 2級
+  url: https://www.eiken.or.jp/eiken/exam/grade_2/
+- certificate_url:
+  date_end: ""
+  date_start: "2020-01-09"
+  description:
+  organization: 長野県公安委員会
+  organization_url: https://www.pref.nagano.lg.jp/koani/index.html
+  title: 普通自動車第一種運転免許（AT限定）
+  url: https://www.pref.nagano.lg.jp/police/menkyo/index.html
 
 design:
   columns: '2' 
