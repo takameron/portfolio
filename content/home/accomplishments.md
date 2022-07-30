@@ -47,6 +47,14 @@ item:
   organization_url: https://www.pref.nagano.lg.jp/koani/index.html
   title: 普通自動車第一種運転免許（AT限定）
   url: https://www.pref.nagano.lg.jp/police/menkyo/index.html
+- certificate_url:
+  date_end: ""
+  date_start: "2022-06-19"
+  description:
+  organization: 公益財団法人 実務技能検定協会
+  organization_url: https://jitsumu-kentei.jp/
+  title: 秘書検定 2級
+  url: https://jitsumu-kentei.jp/HS/index
 
 design:
   columns: '2' 
