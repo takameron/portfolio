@@ -55,6 +55,22 @@ item:
   organization_url: https://jitsumu-kentei.jp/
   title: 秘書検定 2級
   url: https://jitsumu-kentei.jp/HS/index
+- certificate_url:
+  date_end: ""
+  date_start: "2022-12-05"
+  description:
+  organization: 公益社団法人 色彩検定協会
+  organization_url: https://www.aft.or.jp/
+  title: 色彩検定 2級
+  url: https://www.aft.or.jp/pages/feature#levelall
+- certificate_url:
+  date_end: ""
+  date_start: ""
+  description: "令和4年度秋期試験にて合格しました。"
+  organization: 独立行政法人 情報処理推進機構
+  organization_url: https://www.ipa.go.jp/
+  title: 応用情報技術者試験
+  url: https://www.jitec.ipa.go.jp/1_11seido/ap.html
 
 design:
   columns: '2' 
